@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\Projects\Grabber\Grabber\obj\Debug\netcoreapp3.0\Grabber.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Projects\Grabber\Grabber\obj\Debug\netcoreapp3.0\Grabber.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Projects\Grabber\Grabber\obj\Debug\netcoreapp3.0\Grabber.AssemblyInfo.cs
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.exe
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.deps.json
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.runtimeconfig.json
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.runtimeconfig.dev.json
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.dll
+D:\Visual Studio 2019\Projects\Grabber\Grabber\bin\Debug\netcoreapp3.0\Grabber.pdb
+D:\Visual Studio 2019\Projects\Grabber\Grabber\obj\Debug\netcoreapp3.0\Grabber.dll
+D:\Visual Studio 2019\Projects\Grabber\Grabber\obj\Debug\netcoreapp3.0\Grabber.pdb
